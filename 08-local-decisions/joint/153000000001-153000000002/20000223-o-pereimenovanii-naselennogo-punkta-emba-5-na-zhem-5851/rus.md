@@ -1,5 +1,5 @@
 ---
-version_id: '5851_146433'
+version_id: '5851_269095'
 act_code: '5851'
 language: rus
 title: О переименовании населенного пункта Эмба-5 на Жем
@@ -11,9 +11,13 @@ approved_by:
 - '153000000001'
 - '153000000002'
 approval_date: 2000-02-23
-version_date: 2000-02-23
+version_date: 2017-08-14
 registry_number: '5851'
-source: https://zan.gov.kz/client/#!/doc/5851/rus/23.02.2000
+caused_by:
+  code: '114347'
+  title: О внесении изменений в некоторые нормативные правовые акты по вопросам административно-территориального устройства Актюбинской области
+  link: https://zan.gov.kz/client/#!/doc/114347/rus
+source: https://zan.gov.kz/client/#!/doc/5851/rus
 ---
 
 # О переименовании населенного пункта Эмба-5 на Жем

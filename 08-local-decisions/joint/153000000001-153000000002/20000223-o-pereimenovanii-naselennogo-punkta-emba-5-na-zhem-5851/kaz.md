@@ -1,5 +1,5 @@
 ---
-version_id: '5851_146432'
+version_id: '5851_269094'
 act_code: '5851'
 language: kaz
 title: Ембi-5 елдi мекенiн Жем деп өзгерту туралы
@@ -11,9 +11,13 @@ approved_by:
 - '153000000001'
 - '153000000002'
 approval_date: 2000-02-23
-version_date: 2000-02-23
+version_date: 2017-08-14
 registry_number: '5851'
-source: https://zan.gov.kz/client/#!/doc/5851/kaz/23.02.2000
+caused_by:
+  code: '114347'
+  title: Ақтөбе облысының әкімшілік-аумақтық құрылысы мәселелері бойынша кейбір нормативтік құқықтық актілерге өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/114347/kaz
+source: https://zan.gov.kz/client/#!/doc/5851/kaz
 ---
 
 # Ембi-5 елдi мекенiн Жем деп өзгерту туралы
