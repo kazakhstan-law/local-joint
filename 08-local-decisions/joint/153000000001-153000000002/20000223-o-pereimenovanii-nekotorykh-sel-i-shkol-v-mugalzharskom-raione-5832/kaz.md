@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5832/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/5832/kaz/14.08.2017
 ---
 
 # Мұғалжар аудандық кейбiр ауылдар мен мектептердiң атауларын өзгерту туралы

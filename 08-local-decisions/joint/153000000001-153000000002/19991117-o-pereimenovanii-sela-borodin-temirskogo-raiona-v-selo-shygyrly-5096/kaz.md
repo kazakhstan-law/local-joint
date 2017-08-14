@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5096/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/5096/kaz/14.08.2017
 ---
 
 # Темір ауданының Бородин ауылын Шығырлы ауылы деп өзгерту туралы

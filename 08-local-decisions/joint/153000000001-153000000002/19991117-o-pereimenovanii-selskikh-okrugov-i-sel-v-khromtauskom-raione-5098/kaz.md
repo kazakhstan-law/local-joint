@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5098/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/5098/kaz/14.08.2017
 ---
 
 # Хромтау ауданының ауылдық округтері мен ауылдарының аттарын өзгерту туралы

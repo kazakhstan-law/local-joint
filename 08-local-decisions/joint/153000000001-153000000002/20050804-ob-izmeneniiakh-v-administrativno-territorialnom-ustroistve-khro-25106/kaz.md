@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/25106/kaz/04.08.2005
+source: https://zan.gov.kz/client/#!/doc/25106/kaz/14.08.2017
 ---
 
 # Хромтау ауданының әкімшілік-аумақтық құрылысындағы өзгерістер туралы

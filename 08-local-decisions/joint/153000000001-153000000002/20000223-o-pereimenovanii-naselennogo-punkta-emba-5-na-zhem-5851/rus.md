@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5851/rus/23.02.2000
+source: https://zan.gov.kz/client/#!/doc/5851/rus/14.08.2017
 ---
 
 # О переименовании населенного пункта Эмба-5 на Жем

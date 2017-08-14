@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5096/rus/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/5096/rus/14.08.2017
 ---
 
 # О переименовании села Бородин Темирского района в село Шыгырлы

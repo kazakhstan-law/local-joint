@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5851/kaz/23.02.2000
+source: https://zan.gov.kz/client/#!/doc/5851/kaz/14.08.2017
 ---
 
 # Ембi-5 елдi мекенiн Жем деп өзгерту туралы
